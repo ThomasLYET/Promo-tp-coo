@@ -9,6 +9,8 @@ public class Panier {
 
 	private ArrayList<Produit> p;
 	
-	
+	public Panier(){
+		this.p =  new ArrayList<Produit>();
+	}
 	
 }

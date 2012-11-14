@@ -10,6 +10,7 @@ public abstract class Personne {
 
 	public Personne(int theId) {
 		this.id = theId;
+		this.sonPanier = new Panier();
 	}
 
 	public int getId() {
@@ -23,6 +24,5 @@ public abstract class Personne {
 	public void ajouterProduit(Produit p) {
 		// TODO this.sonPanier.add(p);
 	}
-
 
 }
