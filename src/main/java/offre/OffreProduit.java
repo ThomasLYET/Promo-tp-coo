@@ -1,4 +1,4 @@
-package tp2;
+package offre;
 
 public class OffreProduit extends OffreCommerciale{
 

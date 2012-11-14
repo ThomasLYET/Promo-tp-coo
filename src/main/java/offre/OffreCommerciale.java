@@ -1,4 +1,4 @@
-package tp2;
+package offre;
 
 public abstract class OffreCommerciale {
 
